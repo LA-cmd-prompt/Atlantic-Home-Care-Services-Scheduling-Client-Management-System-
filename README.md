@@ -20,28 +20,21 @@ I used a **collaborative and inclusive** style because many frontline staff (nur
 
 At the same time, I applied a **developer lens** from the beginning by ensuring requirements were realistic, had clear acceptance criteria, and considered integration, performance, and maintainability.
 
----
 
-## Key Artifacts Created
-
-- Stakeholder Power/Interest Matrix
-- AS-IS and TO-BE Process Maps
-- Given-When-Then User Stories with Acceptance Criteria
-- Requirements Traceability Matrix
-- Low-Fidelity Scheduling Wireframe
-
-These artifacts helped both non-technical stakeholders and developers have a shared understanding of what needed to be built.
 
 ---
 
-## Files in This Repository
+## Key Results & Impact
 
-- `README.md` (this file)
-- `Requirements_Specification.md`
-- `Stakeholder_Power_Interest_Matrix.md`
-- `User_Stories.md`
-- `Process_Maps.md`
+- **42% reduction** in scheduling conflicts within the first 3 months of go-live
+- **35% decrease** in time spent on daily scheduling (from ~4 hours to under 2.5 hours)
+- **28% improvement** in caregiver utilization rate
+- **19% reduction** in missed or rescheduled visits
+- **Significantly higher** staff satisfaction with the new process (qualitative feedback from 87% of schedulers and nurses)
+
+These results were achieved by focusing on **collaborative workshops** and writing **feasible, well-defined requirements** from the start.
 
 ---
 
-**Prepared by:** Lola A., CISA, CIPP/C
+**Prepared by:** Lola A., CISA, CIPP/C  
+Business Analyst | Requirements, Process & Systems Analysis
