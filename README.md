@@ -38,6 +38,22 @@ I also created a **Requirements Traceability Matrix** and facilitated walkthroug
 - **19% reduction** in missed or rescheduled visits
 - **Significantly higher** staff satisfaction with the new process (qualitative feedback from 87% of schedulers and nurses)
 
+
+### Trade-offs Considered
+- **Speed vs Quality**: We could have moved faster by skipping detailed acceptance criteria, but I recommended investing the time upfront. This trade-off paid off — very little rework was needed during implementation.
+- **Scope vs Budget**: The agency wanted several nice-to-have features (advanced reporting, mobile app for clients). After reviewing effort versus value, I recommended a phased approach, starting with core scheduling functionality first.
+- **Change Management**: Moving from spreadsheets to a system represented a big shift for some staff. I recommended keeping the initial rollout simple to reduce resistance.
+
+### Recommendations
+I recommended the following:
+
+1. Proceed with a digital scheduling system focused on real-time availability and conflict detection.
+2. Prioritize mobile access for caregivers in the first release.
+3. Implement a 3-month pilot with one scheduling team before full rollout.
+4. Include a simple feedback loop so schedulers and nurses could suggest improvements post-implementation.
+
+These recommendations were accepted, and the project moved forward with strong cross-functional support.
+
 These results were achieved by focusing on **collaborative workshops** and writing **feasible, well-defined requirements** from the start.
 
 ---
